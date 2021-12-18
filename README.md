@@ -5,19 +5,20 @@ The resources I will use to do this 100 days golang programming are:
 1. golang-book.com/books/intro
 2. https://de.coursera.org/specializations/google-golang
 3. https://www.programiz.com/dsa
+4. https://gophercises.com/
 
 # Table of Content
-**Day 1** - Basic types
+**Day 1** - Basics
 
-**Day 2** - Packages
+**Day 2** - Basic Types
 
-**Day 3** - If statement
+**Day 3** - For loop
 
-**Day 4** - Switch
+**Day 4** - While loop
 
-**Day 5** - For loop
+**Day 5** - If statement
 
-**Day 6** - While loop
+**Day 6** - Switch statement
 
 **Day 7** - Pointers
 
