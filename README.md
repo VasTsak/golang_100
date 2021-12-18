@@ -2,8 +2,9 @@
 This repository will have code implemented for the 100 days of golang.
 
 The resources I will use to do this 100 days golang programming are: 
-1. https://de.coursera.org/specializations/google-golang
-2. https://www.programiz.com/dsa
+1. golang-book.com/books/intro
+2. https://de.coursera.org/specializations/google-golang
+3. https://www.programiz.com/dsa
 
 # Table of Content
 **Day 1** - Basic types
