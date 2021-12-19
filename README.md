@@ -1,4 +1,4 @@
-# golang_100
+# 100 Days of Go
 This repository will have code implemented for the 100 days of golang.
 
 The resources I will use to do this 100 days golang programming are: 
