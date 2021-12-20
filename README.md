@@ -21,7 +21,7 @@ The resources I will use to do this 100 days golang programming are:
 **Day 6** - Switch statement
 
 **Day 7** - Pointers
-
+ 
 **Day 8** - Arrays
 
 **Day 9** - Slices
