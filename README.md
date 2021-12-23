@@ -20,7 +20,7 @@ The resources I will use to do this 100 days golang programming are:
 
 **Day 6** - Switch statement
 
-**Day 7** - Pointers
+**Day 7** - Defer
  
 **Day 8** - Arrays
 
@@ -40,9 +40,9 @@ The resources I will use to do this 100 days golang programming are:
 
 **Day 16** - Indirection
 
-**Day 17** - Interfaces
+**Day 17** - Pointers
 
-**Day 18** - Object Orientation in Go
+**Day 18** - Interfaces
 
 **Day 19** - Interfaces for Abstraction
 
