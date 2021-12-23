@@ -34,7 +34,7 @@ The resources I will use to do this 100 days golang programming are:
 
 **Day 13** - Functions
 
-**Day 14** - Fibbonaci closure
+**Day 14** - Recursion
 
 **Day 15** - Methods
 
