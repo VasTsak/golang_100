@@ -6,6 +6,10 @@ The resources I will use to do this 100 days golang programming are:
 2. https://de.coursera.org/specializations/google-golang
 3. https://www.programiz.com/dsa
 4. https://gophercises.com/
+5. https://www.golangprograms.com/
+6. https://github.com/loong/go-concurrency-exercises
+7. https://github.com/TomorrowWu/golang-algorithms
+8. https://hackernoon.com/today-i-learned-using-priority-queue-in-golang-6f71868902b7
 
 # Table of Content
 **Day 1** - Basics
@@ -36,11 +40,11 @@ The resources I will use to do this 100 days golang programming are:
 
 **Day 14** - Recursion
 
-**Day 15** - Methods
+**Day 15** - Pointers
 
-**Day 16** - Indirection
+**Day 16** - Methods
 
-**Day 17** - Pointers
+**Day 17** - Indirection
 
 **Day 18** - Interfaces
 
