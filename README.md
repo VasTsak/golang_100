@@ -10,6 +10,7 @@ The resources I will use to do this 100 days golang programming are:
 6. https://github.com/loong/go-concurrency-exercises
 7. https://github.com/TomorrowWu/golang-algorithms
 8. https://hackernoon.com/today-i-learned-using-priority-queue-in-golang-6f71868902b7
+9. https://www.golangprograms.com/golang-program-for-implementation-of-avl-trees.html
 
 # Table of Content
 **Day 1** - Basics
