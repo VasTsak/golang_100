@@ -1,4 +1,4 @@
-package graph
+package main
 
 type Vertex struct {
 	// Key is the uid of the vertex
