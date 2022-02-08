@@ -62,5 +62,4 @@ func main() {
 	testTrie := InitTrie()
 	testTrie.Insert("vasilis")
 	fmt.Println(testTrie.Search("vasilis"))
-
 }
